@@ -4,9 +4,5 @@ public class HiCloud {
         System.out.println("zhenbeixin!!!");
         System.out.println("yaozeqin");
         System.out.println("22222");
-
-
-
-
     }
 }
